@@ -1,0 +1,22 @@
+//
+//  Localizable.strings
+//  SwiftShop
+//
+//  Created by param on 10/05/25.
+//
+
+welcome_title = "Welcome to SwiftShop";
+welcome_subtitle = "Your favorite place to shop online";
+start_shopping = "Start Shopping";
+product_shoes = "Running Shoes";
+product_jacket = "Winter Jacket";
+product_hat = "Baseball Cap";
+product_list_title = "Shop Products";
+price_format = "$%.2f";
+product_description_shoe = "Lightweight and comfortable running shoes ideal for everyday use and long-distance runs. Designed with breathable fabric and a flexible sole for optimal performance. Perfect for all terrains, rain or shine.";
+product_description_tshirt = "Stay warm with this stylish winter jacket made from high-quality materials. Features an insulated lining, windproof design, and multiple pockets for convenience. Ideal for daily use in cold weather.";
+product_description_cap = "This classic baseball cap protects you from the sun while keeping your look casual and cool. Made with durable cotton fabric and an adjustable strap for a comfortable fit. Great for outdoor activities and daily wear.";
+add_to_cart = "Add to Cart";
+product_list_title = "Products";
+
+

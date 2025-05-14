@@ -1,0 +1,22 @@
+//
+//  Localizable.strings
+//  SwiftShop
+//
+//  Created by param on 10/05/25.
+//
+
+welcome_title = "Willkommen bei SwiftShop";
+welcome_subtitle = "Ihr Lieblingsort zum Online-Einkauf";
+start_shopping = "Einkauf starten";
+product_shoes = "Laufschuhe";
+product_jacket = "Winterjacke";
+product_hat = "Baseballmütze";
+product_list_title = "Produkte ansehen";
+price_format = "%.2f €";
+product_description_shoe = "Leichte und bequeme Laufschuhe, ideal für den täglichen Gebrauch und lange Strecken. Atmungsaktives Material und flexible Sohle sorgen für optimale Leistung – perfekt für jedes Gelände bei jedem Wetter.";
+product_description_tshirt = "Bleiben Sie warm mit dieser stilvollen Winterjacke aus hochwertigen Materialien. Sie verfügt über eine isolierte Innenfütterung, winddichtes Design und mehrere Taschen für den täglichen Gebrauch.";
+product_description_cap = "Diese klassische Baseballmütze schützt Sie vor der Sonne und verleiht Ihrem Look einen lässigen Touch. Hergestellt aus strapazierfähigem Baumwollstoff mit verstellbarem Riemen – ideal für draußen und den Alltag.";
+add_to_cart = "In den Warenkorb";
+product_list_title = "Produkte";
+
+
